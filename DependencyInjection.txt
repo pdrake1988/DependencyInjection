@@ -1,0 +1,1 @@
+Dependency Injection is a design pattern to write loosely coupled code.
